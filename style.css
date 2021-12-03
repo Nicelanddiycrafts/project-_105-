@@ -1,0 +1,38 @@
+body{
+    color: white;
+    background: #d5d0ce;
+    
+}
+
+.header{
+width: 80%;
+font-size: 22px;
+background-color: #73828f;
+color: white;
+}
+
+.name_of_objects{
+    color: white;
+}
+
+#camera, #result{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+
+}
+
+#result_object_name, #result_accuracy{
+ color: white;
+ font-size: 23px;
+
+}
+
+#labelFamily{
+    color: white;
+background-color: #a19690 ;
+}
+
+button{
+    background-color: #73828f;
+}
